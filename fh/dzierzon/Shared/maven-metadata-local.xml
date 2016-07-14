@@ -3,12 +3,13 @@
   <groupId>fh.dzierzon</groupId>
   <artifactId>Shared</artifactId>
   <versioning>
-    <release>0.1.4</release>
+    <release>0.1.5</release>
     <versions>
       <version>0.1.2</version>
       <version>0.1.3</version>
       <version>0.1.4</version>
+      <version>0.1.5</version>
     </versions>
-    <lastUpdated>20160714102320</lastUpdated>
+    <lastUpdated>20160714110441</lastUpdated>
   </versioning>
 </metadata>
